@@ -1,11 +1,10 @@
 ---
 layout: post
-category : lessons
-tagline: "Supporting tagline"
-tags : [intro, beginner, jekyll, tutorial]
+title: "hello world"
+description: ""
+category: 
+tags: [maomao]
 ---
-{% include JB/setup %}
-
 
 
 ##### 欢乐的毛毛
@@ -13,9 +12,3 @@ tags : [intro, beginner, jekyll, tutorial]
 ![maomao1](/pic/maomao/maomao1.jpg)
 
 ![maomao2](/pic/maomao/maomao2.jpg)
-
-
-
-
-
-{% include JB/setup %}
