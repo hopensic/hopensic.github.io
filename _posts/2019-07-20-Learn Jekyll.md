@@ -27,13 +27,27 @@ ruby 2.6.3p62 (2019-04-16 revision 67580) [x64-mingw32]
 
 #### 2. 安装RubyGems
 
-RubyGems是Ruby的包管理器，
+RubyGems是Ruby的包管理器，它会将Ruby的应用程序打包的一个Gem里
 
 
 
 
 
 ###  Jekyll的使用
+
+
+
+
+
+
+
+###### 参考:
+
+[整理Ruby相关的各种概念（rvm, gem, bundle, rake, rails等）](https://henter.me/post/ruby-rvm-gem-rake-bundle-rails.html)
+
+[RubyGems维基百科]([https://zh.wikipedia.org/wiki/RubyGems#%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86](https://zh.wikipedia.org/wiki/RubyGems#在中国大陆))
+
+
 
 
 
