@@ -2,8 +2,8 @@
 layout: post
 title: "Learn Jekyll"
 description: ""
-category: jekyll
-tags: [jekyll]
+category: Jekyll
+tags: [Jekyll,Tutorial]
 ---
 
 ## Jekyll 学习笔记
