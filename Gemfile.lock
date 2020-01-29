@@ -82,7 +82,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-seo-tag
   rspec
-  wdm (~> 0.1.0)
+  wdm (~> 0.1.1)
 
 BUNDLED WITH
    2.1.4
