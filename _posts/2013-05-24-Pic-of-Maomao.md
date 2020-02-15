@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "hello world"
+title: "Pic of Maomao"
 description: ""
-category: Test
-tags: [Maomao,Test]
+category: Maomao
+tags: [Maomao]
 ---
 
 <head>
