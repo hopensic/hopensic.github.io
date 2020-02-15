@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dance of Fingertip
+title: Dance of Fingertips
 tagline: 
 ---
 {% include JB/setup %}
