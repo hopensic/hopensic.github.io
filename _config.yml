@@ -89,10 +89,13 @@ JB :
   #
   
   
-  comment_gitalk_clientId: 792d943590f3ca5e4048
-  comment_gitalk_clientSecret: 76746ae6d7ccfd2add8975b75295a792b272a5d2
-  comment_gitalk_repo: hopensic.github.io
-  github_username: hopensic
+  gitalk:
+  enable: true
+  owner: hopensic
+  repo: hopensic.github.com
+  clientID: 792d943590f3ca5e4048
+  clientSecret: 76746ae6d7ccfd2add8975b75295a792b272a5d2
+  admin: hopensic
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
