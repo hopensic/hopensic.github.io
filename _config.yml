@@ -91,11 +91,11 @@ JB :
   
   gitalk:
   enable: true
-  owner: hopensic
-  repo: hopensic.github.com
-  clientID: 792d943590f3ca5e4048
-  clientSecret: 76746ae6d7ccfd2add8975b75295a792b272a5d2
-  admin: hopensic
+  owner: 'hopensic'
+  repo: 'hopensic.github.com'
+  clientID: '792d943590f3ca5e4048'
+  clientSecret: '381c2adb4b0a05012e76bdec65eb2f9b43eb24b4'
+  admin: 'hopensic'
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
