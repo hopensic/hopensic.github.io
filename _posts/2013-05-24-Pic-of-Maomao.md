@@ -31,7 +31,17 @@ tags: [Maomao]
 
 
 
-$$ evidence\_{i}=\sum\_{j}W\_{ij}x\_{j}+b\_{i} $$
+$ evidence\_{i}=\sum\_{j}W\_{ij}x\_{j}+b\_{i} $
+
+$y=\sin(\pi+\theta)$
+
+$\sum_{i=1}^n A_i$
+
+
+
+$a^2+b^2=c^2$
+
+
 
 {% raw %}
 $$a^2 + b^2 = c^2$$
